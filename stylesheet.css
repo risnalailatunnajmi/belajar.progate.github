@@ -1,0 +1,204 @@
+* {
+  ukuran kotak: border-box;
+}
+
+tubuh {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+Sebuah {
+  dekorasi-teks: tidak ada;
+}
+
+.bersih {
+  jelas: kiri;
+}
+
+.container {
+  lebar maksimal: 1170 piksel;
+  bantalan: 0 15px;
+  margin: 0 otomatis;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  gambar latar belakang: url (https://prog-8.com/images/html/advanced/top_en.png);
+  ukuran latar belakang: penutup;
+  warna putih;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opasitas: 0,7;
+  ukuran font: 45px;
+  spasi huruf: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opasitas: 0,7;
+  margin-bottom: 3px;
+}
+
+.btn-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.Daftar {
+  warna-latar belakang: # 239b76;
+}
+
+.facebook {
+  warna-latar belakang: # 3b5998;
+  margin kanan: 10px;
+}
+
+.Indonesia {
+  warna-latar belakang: # 55acee;
+}
+
+.btn {
+  padding: 12px 24px;
+  warna putih;
+  tampilan: blok-sebaris;
+  opasitas: 0,8;
+  radius batas: 4px;
+  text-align: center;
+}
+
+.btn: hover {
+  opasitas: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  tinggi: 65px;
+  lebar: 100%;
+  warna latar belakang: rgba (34, 49, 52, 0.9);
+  posisi: tetap;
+  atas: 0;
+  z-indeks: 10;
+}
+
+.logo {
+  lebar: 124px;
+  margin-top: 20px;
+}
+
+.header-left {
+  float: kiri;
+}
+
+.header-right {
+  float: benar;
+  margin-right: -25px;
+}
+
+.header-right a {
+  tinggi garis: 65px;
+  bantalan: 0 25px;
+  warna putih;
+  tampilan: blok;
+  float: kiri;
+  transisi: semua 0,5s;
+}
+
+.header-right a: hover {
+  warna latar belakang: rgba (255, 255, 255, 0,3);
+}
+
+.menu-icon {
+  warna putih;
+  float: benar;
+  ukuran font: 25px;
+  bantalan: 21px 0;
+  tampilan: tidak ada;
+}
+
+.lesson-wrapper {
+  padding-bottom: 80px;
+  padding-kiri: 5%;
+  bantalan-kanan: 5%;
+  warna-latar belakang: # f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  warna: # 5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson {
+  float: kiri;
+  lebar: 25%;
+}
+
+.lesson-icon {
+  posisi: relatif;
+}
+
+.lesson-icon p {
+  posisi: mutlak;
+  atas: 44%;
+  lebar: 100%;
+  warna putih;
+}
+
+.text-content {
+  lebar: 80%;
+  tampilan: blok-sebaris;
+  margin-top: 15px;
+  ukuran font: 15px;
+  warna: # b3aeb5;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.message {
+  padding: 15px 40px;
+  warna-latar belakang: # 5dca88;
+  kursor: penunjuk;
+  box-shadow: 0 7px # 1a7940;
+}
+
+.message: aktif {
+  posisi: relatif;
+  atas: 7px;
+  box-shadow: tidak ada;
+}
+
+footer img {
+  lebar: 125px;
+}
+
+footer p {
+  warna: # b3aeb5;
+  ukuran font: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
